@@ -18,3 +18,9 @@ https://www.acmicpc.net/problem/4673
 
 4. 어린왕자
 https://www.acmicpc.net/problem/1004
+
+5. RGB거리
+https://www.acmicpc.net/problem/1149
+
+6. 미로 탐색
+https://www.acmicpc.net/problem/2178

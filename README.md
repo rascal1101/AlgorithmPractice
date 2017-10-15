@@ -24,3 +24,6 @@ https://www.acmicpc.net/problem/1149
 
 6. 미로 탐색
 https://www.acmicpc.net/problem/2178
+
+7. 계단 오르기
+https://www.acmicpc.net/problem/2579

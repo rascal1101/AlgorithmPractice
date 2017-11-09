@@ -27,3 +27,9 @@ https://www.acmicpc.net/problem/2178
 
 7. 계단 오르기
 https://www.acmicpc.net/problem/2579
+
+8. 붕어빵 판매하기
+https://www.acmicpc.net/problem/11052
+
+9. 유기농 배추
+https://www.acmicpc.net/problem/1012

@@ -2,6 +2,7 @@
 
 ## BOJ
 
+### Tier0
 1. Hello World!
 https://www.acmicpc.net/problem/2557
 ~~~ Java
@@ -33,3 +34,5 @@ https://www.acmicpc.net/problem/11052
 
 9. 유기농 배추
 https://www.acmicpc.net/problem/1012
+
+### Tier1

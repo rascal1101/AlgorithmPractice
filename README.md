@@ -36,3 +36,6 @@ https://www.acmicpc.net/problem/11052
 https://www.acmicpc.net/problem/1012
 
 ### Tier1
+
+10. 수 정렬하기 2
+https://www.acmicpc.net/problem/2751

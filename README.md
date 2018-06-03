@@ -35,6 +35,10 @@ https://www.acmicpc.net/problem/11052
 9. 유기농 배추
 https://www.acmicpc.net/problem/1012
 
+10. 영역 구하기
+https://www.acmicpc.net/problem/2583
+
+
 ### Tier1
 
 1. 수 정렬하기 2

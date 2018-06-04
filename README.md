@@ -38,6 +38,11 @@ https://www.acmicpc.net/problem/1012
 10. 영역 구하기
 https://www.acmicpc.net/problem/2583
 
+11. 카드게임
+https://www.acmicpc.net/problem/2621
+
+12. 쇠막대기
+https://www.acmicpc.net/problem/10799
 
 ### Tier1
 

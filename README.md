@@ -44,6 +44,9 @@ https://www.acmicpc.net/problem/2621
 12. 쇠막대기
 https://www.acmicpc.net/problem/10799
 
+13. 외판원 순회2
+https://www.acmicpc.net/problem/10971
+
 ### Tier1
 
 1. 수 정렬하기 2

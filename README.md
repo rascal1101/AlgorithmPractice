@@ -47,6 +47,9 @@ https://www.acmicpc.net/problem/10799
 13. 외판원 순회2
 https://www.acmicpc.net/problem/10971
 
+14. 연구소
+https://www.acmicpc.net/problem/14502
+
 ### Tier1
 
 1. 수 정렬하기 2

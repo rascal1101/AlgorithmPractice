@@ -56,6 +56,9 @@ https://www.acmicpc.net/problem/10808
 16. 주사위 굴리기
 https://www.acmicpc.net/problem/14499
 
+17. 별찍기 - 11
+https://www.acmicpc.net/problem/2448
+
 ### Tier1
 
 1. 수 정렬하기 2

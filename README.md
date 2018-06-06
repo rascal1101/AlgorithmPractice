@@ -50,6 +50,9 @@ https://www.acmicpc.net/problem/10971
 14. 연구소
 https://www.acmicpc.net/problem/14502
 
+15. 알파벳 개수
+https://www.acmicpc.net/problem/10808
+
 ### Tier1
 
 1. 수 정렬하기 2

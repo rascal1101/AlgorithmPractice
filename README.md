@@ -53,6 +53,9 @@ https://www.acmicpc.net/problem/14502
 15. 알파벳 개수
 https://www.acmicpc.net/problem/10808
 
+16. 주사위 굴리기
+https://www.acmicpc.net/problem/14499
+
 ### Tier1
 
 1. 수 정렬하기 2

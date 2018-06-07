@@ -70,4 +70,7 @@ https://www.acmicpc.net/problem/2293
 3. 차이를 최대로
 https://www.acmicpc.net/problem/10819
 
+4. 스택 수열
+https://www.acmicpc.net/problem/1874
+
 

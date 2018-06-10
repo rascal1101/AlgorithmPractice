@@ -76,4 +76,6 @@ https://www.acmicpc.net/problem/1874
 5. 이동하기
 https://www.acmicpc.net/problem/11048
 
+6. 동전2
+https://www.acmicpc.net/problem/2294
 

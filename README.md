@@ -79,3 +79,6 @@ https://www.acmicpc.net/problem/11048
 6. 동전2
 https://www.acmicpc.net/problem/2294
 
+7. 연산자 끼워넣기
+https://www.acmicpc.net/problem/14888
+

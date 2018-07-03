@@ -84,3 +84,6 @@ https://www.acmicpc.net/problem/14888
 
 8. 최단경로 <br>
 https://www.acmicpc.net/problem/1753
+
+9. 최소비용 구하기 <br>
+https://www.acmicpc.net/problem/1916

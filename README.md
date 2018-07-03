@@ -87,3 +87,6 @@ https://www.acmicpc.net/problem/1753
 
 9. 최소비용 구하기 <br>
 https://www.acmicpc.net/problem/1916
+
+10. ACM Craft <br>
+https://www.acmicpc.net/problem/1005

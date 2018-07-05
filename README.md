@@ -93,3 +93,6 @@ https://www.acmicpc.net/problem/1005
 
 11. 로또 <br>
 https://www.acmicpc.net/problem/6603
+
+12. 오르막수 <br>
+https://www.acmicpc.net/problem/11057

@@ -90,3 +90,6 @@ https://www.acmicpc.net/problem/1916
 
 10. ACM Craft <br>
 https://www.acmicpc.net/problem/1005
+
+11. 로또 <br>
+https://www.acmicpc.net/problem/6603

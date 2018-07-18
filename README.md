@@ -99,3 +99,9 @@ https://www.acmicpc.net/problem/11057
 
 13. 분수 합 <br>
 https://www.acmicpc.net/problem/1735
+
+14. 오늘 날짜 <br>
+https://www.acmicpc.net/problem/10699
+
+15. 토너먼트 <br>
+https://www.acmicpc.net/problem/1057

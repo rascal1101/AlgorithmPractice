@@ -105,3 +105,6 @@ https://www.acmicpc.net/problem/10699
 
 15. 토너먼트 <br>
 https://www.acmicpc.net/problem/1057
+
+16. 연결 요소의 개수 <br>
+https://www.acmicpc.net/problem/11724

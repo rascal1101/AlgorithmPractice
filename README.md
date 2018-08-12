@@ -111,3 +111,6 @@ https://www.acmicpc.net/problem/11724
 
 17. 수들의 합2 <br>
 https://www.acmicpc.net/problem/2003
+
+18. 덱 <br>
+https://www.acmicpc.net/problem/10866

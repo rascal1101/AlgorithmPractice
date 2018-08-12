@@ -114,3 +114,7 @@ https://www.acmicpc.net/problem/2003
 
 18. 덱 <br>
 https://www.acmicpc.net/problem/10866
+
+19. 부분집합의 합 <br>
+https://www.acmicpc.net/problem/1182
+

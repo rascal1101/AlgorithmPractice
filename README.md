@@ -118,3 +118,5 @@ https://www.acmicpc.net/problem/10866
 19. 부분집합의 합 <br>
 https://www.acmicpc.net/problem/1182
 
+20. 회전하는 큐 <br>
+https://www.acmicpc.net/problem/1021

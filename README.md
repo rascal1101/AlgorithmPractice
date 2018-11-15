@@ -1,8 +1,8 @@
 # AlgorithmPractice 
 
-## BOJ
-https://koosa.ga/ -> https://koosaga.oj.uz/
-### Tier0
+## BOJ https://www.acmicpc.net/
+
+
 1. Hello World! <br>
 https://www.acmicpc.net/problem/2557
 ~~~ Java
@@ -59,64 +59,62 @@ https://www.acmicpc.net/problem/14499
 17. 별찍기 - 11 <br>
 https://www.acmicpc.net/problem/2448
 
-### Tier1
-
-1. 수 정렬하기 2 <br>
+18. 수 정렬하기 2 <br>
 https://www.acmicpc.net/problem/2751
 
-2. 동전1 <br>
+19. 동전1 <br>
 https://www.acmicpc.net/problem/2293
 
-3. 차이를 최대로 <br>
+20. 차이를 최대로 <br>
 https://www.acmicpc.net/problem/10819
 
-4. 스택 수열 <br>
+21. 스택 수열 <br>
 https://www.acmicpc.net/problem/1874
 
-5. 이동하기 <br>
+22. 이동하기 <br>
 https://www.acmicpc.net/problem/11048
 
-6. 동전2 <br>
+23. 동전2 <br>
 https://www.acmicpc.net/problem/2294
 
-7. 연산자 끼워넣기 <br>
+24. 연산자 끼워넣기 <br>
 https://www.acmicpc.net/problem/14888
 
-8. 최단경로 <br>
+25. 최단경로 <br>
 https://www.acmicpc.net/problem/1753
 
-9. 최소비용 구하기 <br>
+26. 최소비용 구하기 <br>
 https://www.acmicpc.net/problem/1916
 
-10. ACM Craft <br>
+27. ACM Craft <br>
 https://www.acmicpc.net/problem/1005
 
-11. 로또 <br>
+28. 로또 <br>
 https://www.acmicpc.net/problem/6603
 
-12. 오르막수 <br>
+29. 오르막수 <br>
 https://www.acmicpc.net/problem/11057
 
-13. 분수 합 <br>
+30. 분수 합 <br>
 https://www.acmicpc.net/problem/1735
 
-14. 오늘 날짜 <br>
+31. 오늘 날짜 <br>
 https://www.acmicpc.net/problem/10699
 
-15. 토너먼트 <br>
+32. 토너먼트 <br>
 https://www.acmicpc.net/problem/1057
 
-16. 연결 요소의 개수 <br>
+33. 연결 요소의 개수 <br>
 https://www.acmicpc.net/problem/11724
 
-17. 수들의 합2 <br>
+34. 수들의 합2 <br>
 https://www.acmicpc.net/problem/2003
 
-18. 덱 <br>
+35. 덱 <br>
 https://www.acmicpc.net/problem/10866
 
-19. 부분집합의 합 <br>
+36. 부분집합의 합 <br>
 https://www.acmicpc.net/problem/1182
 
-20. 회전하는 큐 <br>
+37. 회전하는 큐 <br>
 https://www.acmicpc.net/problem/1021

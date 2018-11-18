@@ -125,4 +125,7 @@ https://www.acmicpc.net/problem/9020
 39. 피보나치 수 3 <br>
 https://www.acmicpc.net/problem/2749
 
+40. 조합 <br>
+https://www.acmicpc.net/problem/2407
+
 

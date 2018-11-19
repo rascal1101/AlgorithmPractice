@@ -128,4 +128,9 @@ https://www.acmicpc.net/problem/2749
 40. 조합 <br>
 https://www.acmicpc.net/problem/2407
 
+41. 내리막 길 <br>
+https://www.acmicpc.net/problem/1520
+
+
+
 

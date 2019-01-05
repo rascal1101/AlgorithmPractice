@@ -1,9 +1,9 @@
 ﻿# AlgorithmPractice 
-Java
-## BOJ 
-https://www.acmicpc.net/ <br>
-https://koosaga.oj.uz/
+언어 : Java <br>
+백준 : https://www.acmicpc.net/ <br>
+문제 추천 : https://koosaga.oj.uz/
 
+## BOJ 
 1. Hello World! <br>
 https://www.acmicpc.net/problem/2557
 ~~~ Java

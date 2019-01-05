@@ -1,7 +1,8 @@
 ﻿# AlgorithmPractice 
-
-## BOJ https://www.acmicpc.net/
-
+Java
+## BOJ 
+https://www.acmicpc.net/
+https://koosaga.oj.uz/
 
 1. Hello World! <br>
 https://www.acmicpc.net/problem/2557
